@@ -2,7 +2,6 @@
 
 ## Overview
 This project implements a YOLOv8-based object detection model trained to detect acts of violence in images and videos. The model is trained using the [Smart Schools Using AI and IOT Dataset]([https://universe.roboflow.com/ds/3cUl9dgLas?key=WKeQTMC4Sl](https://universe.roboflow.com/project-hw9bc/smart-schools-using-ai-and-iot3)) from Roboflow. A **Gradio** interface is integrated for easy interaction, allowing users to upload images or videos for real-time violence detection.
-This project implements a YOLOv8-based object detection model trained to detect acts of violence in images and videos. The model is trained using the [Violence Detection Dataset]() from Roboflow. A **Gradio** interface is integrated for easy interaction, allowing users to upload images or videos for real-time violence detection.
 
 ## Screenshots
 ### Image Detection

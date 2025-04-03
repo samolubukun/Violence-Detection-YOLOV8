@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/dcc30683-2426-4b29-9c94-0df6410247e9
 - **Live Video Processing**: Processes video files frame by frame to detect violent activities.
 
 ## Dataset
-The model was trained using the [Smart Schools Using AI and IOT Dataset]([https://universe.roboflow.com/ds/3cUl9dgLas?key=WKeQTMC4Sl](https://universe.roboflow.com/project-hw9bc/smart-schools-using-ai-and-iot3)), which contains labeled images depicting violent actions.
+The model was trained using the [Smart Schools Using AI and IOT Dataset]((https://universe.roboflow.com/project-hw9bc/smart-schools-using-ai-and-iot3)), which contains labeled images depicting violent actions.
 
 ## Usage
 ### Running the Jupyter Notebook

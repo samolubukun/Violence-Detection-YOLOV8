@@ -33,6 +33,7 @@ To run the model and Gradio interface:
 ## Gradio Interface
 The project includes a Gradio interface with two tabs:
 1. **Image Detection**: Upload an image, and the model will detect violent actions.
+2. **Video Detection**: Upload a video, and the model will process it to detect violence frame by frame.
 
 ## Future Improvements
 - **Model Optimization**: Further fine-tuning for higher accuracy and efficiency.
